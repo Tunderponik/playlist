@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Mono+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@500&display=swap');
+
+body {
+    font-family: 'Rubik';
+    background-repeat: no-repeat;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Rubik Mono One';
+    border-bottom: green solid 10px;
+}
+tr, th, td {
+
+    background-color: black;
+    color: whitesmoke;
+    position: relative;
+    font-size: 40px;
+    border-bottom: green solid 5px;
+}
+
+div, table {
+    margin: 0 auto;
+}
+a:link, a:visited, a:active {
+    text-decoration:none;
+    color:royalblue
+}
